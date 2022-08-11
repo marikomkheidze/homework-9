@@ -38,6 +38,12 @@
         margin-bottom: 40px;
 
     }
+
+    .map {
+        margin-top: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -56,5 +62,11 @@
 
     .head-menu {
         margin-bottom: 20px;
+    }
+
+    .map {
+        margin-top: 15px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }

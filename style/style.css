@@ -97,6 +97,20 @@
     color: #fff;
 }
 
+.map {
+    margin-top: 50px;
+    max-width: 1088px;
+    max-height: 289px;
+
+}
+
+.map-box {
+    width: 100%;
+    height: auto;
+
+
+}
+
 /* -------------------hover---------------------- */
 
 
