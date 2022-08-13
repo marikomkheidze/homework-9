@@ -45,7 +45,22 @@
         padding-right: 30px;
     }
 
-  
+
+}
+
+@media (max-width:768px) {
+    .icons {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .icon {
+        margin-top: 15px;
+        display: block;
+        width: 100%;
+    }
+
+
 }
 
 @media (max-width: 480px) {
@@ -71,4 +86,17 @@
         padding-left: 0px;
         padding-right: 0px;
     }
+
+    .forms {
+        flex-wrap: wrap;
+    }
+
+    .form-block {
+        margin-top: 32px;
+        max-width: 720px;
+        margin-left: 0px;
+    }
+
+
+
 }
