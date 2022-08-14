@@ -68,6 +68,19 @@
         margin-bottom: 20px;
     }
 
+    .copy-mail {
+        display: none;
+    }
+
+    .box-2 {
+        display: none;
+    }
+
+    .box-3 {
+        display: none;
+    }
+
+
 
 }
 
@@ -107,6 +120,15 @@
 
     .subtitle1 {
         font-size: 30px;
+    }
+
+    .footer-text1 {
+        display: none;
+    }
+
+    .s-media-icons {
+        margin-top: 30px;
+        font-size: 40px;
     }
 
 
