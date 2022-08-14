@@ -266,20 +266,20 @@ image {
 
 }
 
-.s-media-icons {
-    font-size: 20px;
+.icon-links {
+    font-size: 35px;
 }
 
-.s-media-icons :nth-child(1) {
+.icon-links:nth-child(1) {
     color: #3B5998;
 
 }
 
-.s-media-icons :nth-child(2) {
+.icon-links:nth-child(2) {
     color: #55ACEE;
 }
 
-.s-media-icons :nth-child(3) {
+.icon-links:nth-child(3) {
     color: #DC4E41;
 }
 
