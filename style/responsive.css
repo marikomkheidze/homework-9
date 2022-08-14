@@ -60,6 +60,14 @@
         width: 100%;
     }
 
+    .images {
+        flex-direction: column;
+    }
+
+    .img {
+        margin-bottom: 20px;
+    }
+
 
 }
 
@@ -95,6 +103,10 @@
         margin-top: 32px;
         max-width: 720px;
         margin-left: 0px;
+    }
+
+    .subtitle1 {
+        font-size: 30px;
     }
 
 
